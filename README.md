@@ -9,7 +9,7 @@ Design 5 POAP "Proof Of Attendance Protocol" for the Sybil Hunter Challenge even
 2. Silver POAP
 3. Gold POAP
 4. Platinum POAP
-5. Sybil Hunter Master POAP 2022
+5. Sybil Hunter Master POAP GR14
 
 ##### Feel free to change these names here (Bronze, Silver, Gold, Platinum) and let go your imagination/creativity 
 
